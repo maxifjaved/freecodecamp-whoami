@@ -10,7 +10,7 @@
     node server.js
 
 ---
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:8080](http://localhost:8080).
 
 ---
     Regards : Muhammad Asif Javed
